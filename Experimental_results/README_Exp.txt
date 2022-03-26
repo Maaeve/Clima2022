@@ -1,4 +1,4 @@
-Experiments were carried out for two different outdoor temperatures, namely 0 °C (File: ExpData_Tout_0_degrees) and 8 °C (File: ExpData_Tout_0_degrees).
+Experiments were carried out for two different outdoor temperatures, namely 0 °C (File: ExpData_Tout_0_degrees) and 8 °C (File: ExpData_Tout_8_degrees).
 
 The used acronyms within the experimental result file with related meanings and units are:
 
